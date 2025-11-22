@@ -6,3 +6,7 @@
 ###### This is header with 6 hash
 
 ![Image of Surftocat](https://octodex.github.com/images/surftocat.png)
+
+''' javascript
+var myvar = "Hello World!";
+'''
