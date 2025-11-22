@@ -4,3 +4,5 @@
 #### This is header with 4 hash
 ##### This is header with 5 hash
 ###### This is header with 6 hash
+
+![Image of Surftocat](https://octodex.github.com/images/surftocat.png)
