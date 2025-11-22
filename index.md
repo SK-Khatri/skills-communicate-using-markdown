@@ -7,13 +7,9 @@
 
 ![Image of Surftocat](https://octodex.github.com/images/surftocat.png)
 
-'''
-$ git init
-Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
-'''
-
-''' javascript
+``` javascript
 var myvar = "Hello World!";
-'''
+```
+
 
 
